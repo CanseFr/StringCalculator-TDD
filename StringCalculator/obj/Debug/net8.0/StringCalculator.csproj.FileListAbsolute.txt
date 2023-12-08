@@ -1,0 +1,14 @@
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/bin/Debug/net8.0/StringCalculator
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/bin/Debug/net8.0/StringCalculator.deps.json
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/bin/Debug/net8.0/StringCalculator.runtimeconfig.json
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/bin/Debug/net8.0/StringCalculator.dll
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/bin/Debug/net8.0/StringCalculator.pdb
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.AssemblyInfoInputs.cache
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.AssemblyInfo.cs
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.csproj.CoreCompileInputs.cache
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.dll
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/refint/StringCalculator.dll
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.pdb
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/StringCalculator.genruntimeconfig.cache
+/Users/canse/Documents/M2I/CleanArchitecture/StringCalculator/StringCalculator/obj/Debug/net8.0/ref/StringCalculator.dll

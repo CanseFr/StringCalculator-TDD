@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator", "StringCalculator\StringCalculator.csproj", "{BA954EB7-BF5B-4573-9DB0-24327CE23639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorTests.UnitTests", "StringCalculatorTests.UnitTests\StringCalculatorTests.UnitTests.csproj", "{0E8B29C1-9112-4AB6-B584-D7174E9A4080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorIntegrationTests.IntegrationTests", "StringCalculatorIntegrationTests.IntegrationTests\StringCalculatorIntegrationTests.IntegrationTests.csproj", "{2115405C-4413-4A65-9FC1-E3BDFA967E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA954EB7-BF5B-4573-9DB0-24327CE23639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA954EB7-BF5B-4573-9DB0-24327CE23639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA954EB7-BF5B-4573-9DB0-24327CE23639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA954EB7-BF5B-4573-9DB0-24327CE23639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8B29C1-9112-4AB6-B584-D7174E9A4080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8B29C1-9112-4AB6-B584-D7174E9A4080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8B29C1-9112-4AB6-B584-D7174E9A4080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8B29C1-9112-4AB6-B584-D7174E9A4080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2115405C-4413-4A65-9FC1-E3BDFA967E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2115405C-4413-4A65-9FC1-E3BDFA967E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2115405C-4413-4A65-9FC1-E3BDFA967E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2115405C-4413-4A65-9FC1-E3BDFA967E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
